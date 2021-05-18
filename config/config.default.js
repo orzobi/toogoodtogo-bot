@@ -1,8 +1,8 @@
 export default {
   "api": {
     "credentials": {
-      "email": "vikanjes@tiscali.it",
-      "password": "universo21"
+      "email": "email",
+      "password": "psw"
     },
     "headers": {
       "User-Agent": "TooGoodToGo/20.6.1 (813) (iPhone/iPhone 7 (GSM); iOS 13.6; Scale/2.00)"
@@ -19,7 +19,7 @@ export default {
     },
     "telegram": {
       "enabled": true,
-      "bot_token": "1630111388:AAE8IDBU1GL7XiRZ1kkHHp5HjJOksCta0TU"
+      "bot_token": "token"
     }
   },
 }
